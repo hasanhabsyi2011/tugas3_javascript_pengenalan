@@ -1,9 +1,10 @@
-var nama = "UPIN"
+function tugas3(x){
+  console.log(x);
 
-function panggilNama(nama){
-	var nama = "UPIN diubah"
-	return nama
+  var berubah = "nilah setelah berubah"
+  return berubah
+  console.log(berubah);
 }
 
-console.log(nama)
-console.log(panggilNama())
+
+console.log(tugas3("nilai awal"));
